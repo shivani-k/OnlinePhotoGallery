@@ -1,15 +1,7 @@
 <?php
-/*
-Author: Javed Ur Rehman
-Website: http://www.allphptricks.com/
-*/
- 
 require('db.php');
-include("auth.php"); //include auth.php file on all secure pages
-
-
-
- ?>
+include("auth.php");
+?>
 <!DOCTYPE html>
 <html>
 <head>
