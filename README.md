@@ -1,2 +1,2 @@
 # OnlinePhotoGallery
-Learning how to use GitHub for our MiniProject...
+Basic Webpage for managing and editing photos
